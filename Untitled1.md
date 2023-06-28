@@ -11,7 +11,5 @@ mainブランチで変更を加えた
 
 違い
 
-aaaa
-
-bbbb
+ccccc
 [this is a link](https://www.hiroshima-u.ac.jp)
